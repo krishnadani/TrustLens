@@ -1,0 +1,14 @@
+# --- Core scientific stack ---
+numpy
+pillow
+requests
+scikit-learn
+
+# --- PyTorch CPU build ---
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+torchaudio==2.2.2+cpu
+--index-url https://download.pytorch.org/whl/cpu
+
+# --- Optional utilities ---
+tqdm
