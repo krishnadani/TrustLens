@@ -1,6 +1,6 @@
-# 🛡️ TrustNet (In Progress)
+# 🛡️ TrustLens
 
-**TrustNet** is a full-stack AI-powered platform built to ensure product authenticity, detect fake reviews, and flag anomalies across the product lifecycle. Currently under active development, this system is designed to assist marketplaces in maintaining trust and safety at scale.
+**TrustLens** is a full-stack AI-powered platform built to ensure product authenticity, detect fake reviews, and flag anomalies across the product lifecycle. Currently under active development, this system is designed to assist marketplaces in maintaining trust and safety at scale.
 
 ---
 
@@ -132,7 +132,7 @@ The goal is to accurately classify counterfeit vs. genuine products across diver
 ## 🗂️ Project Structure
 
 ```bash
-trustnet-ai/
+TrustLens/
 ├── backend/               # Express backend
 │   ├── config/
 │   ├── models/
@@ -157,8 +157,8 @@ trustnet-ai/
 ## 🌐 Local Setup Instructions (Basic)
 
 ### Clone the repo-
-git clone https://github.com/Nayan172005/trustnet-ai.git
-cd trustnet-ai
+git clone https://github.com/krishnadani/TrustLens.git
+cd TrustLens
 
 ### Install backend dependencies-
 cd backend
@@ -188,4 +188,4 @@ npm start
 
 - 🚧 This project is a **solo build**, and development is ongoing.
 - 📈 Expect continuous improvements in **model accuracy**, **user experience**, and **performance**.
-- 🤝 Contributions or suggestions are always welcome via [Issues](https://github.com/Nayan172005/trustnet-ai/issues) or PRs.
+- 🤝 Contributions or suggestions are always welcome via [Issues](https://github.com/krishnadani/TrustLens/issues) or PRs.
