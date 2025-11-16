@@ -1,0 +1,276 @@
+[
+  {
+    "product_id": "prod_001",
+    "title": "Nike Air Max 270",
+    "brand": "Nike",
+    "description": "Original Nike Air Max 270 with breathable mesh and iconic air sole.",
+    "price": "11999",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753291453/main-square_87a99364-0fdf-4670-9681-3274b2b23217_540x_hmrvrw.webp",
+    "label": 0
+  },
+  {
+    "product_id": "prod_002",
+    "title": "Nike AirMax 270",
+    "brand": "Nikee",
+    "description": "Original Air max shoes for menz with comfort sole",
+    "price": "2999",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753291453/main-square_87a99364-0fdf-4670-9681-3274b2b23217_540x_hmrvrw.webp",
+    "label": 1
+  },
+  {
+    "product_id": "prod_003",
+    "title": "Samsung Galaxy Buds 2 Pro",
+    "brand": "Samsung",
+    "description": "Wireless earbuds with ANC, 360 Audio, and seamless device switching.",
+    "price": "15990",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753291868/61YP3nZAptL._SX679_18dc2e60-e921-4d88-8a02-72b64d4112be_dqk3uk.webp",
+    "label": 0
+  },
+  {
+    "product_id": "prod_004",
+    "title": "Samzung Buds Pro 2",
+    "brand": "Samsung",
+    "description": "Superb audio quality and wireles connectivty, compitable with all phone.",
+    "price": "1899",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753291868/61YP3nZAptL._SX679_18dc2e60-e921-4d88-8a02-72b64d4112be_dqk3uk.webp",
+    "label": 1
+  },
+  {
+    "product_id": "prod_005",
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "brand": "Apple",
+    "description": "H2 chip for superior sound, Adaptive Transparency, MagSafe charging case.",
+    "price": "26999",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753295962/KangetAppleAirpodsImage_01_1920x_z2gwga.webp",
+    "label": 0
+  },
+  {
+    "product_id": "prod_006",
+    "title": "Apple Airpods Pro (2)",
+    "brand": "Apple",
+    "description": "new chip for hi-res audio, Transparancy mode, wirelss charge support",
+    "price": "3899",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753295961/Untitled_design_ntbyrj.webp",
+    "label": 1
+  },
+  {
+    "product_id": "prod_007",
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "description": "Industry-leading noise cancellation, 30-hour battery, lightweight design.",
+    "price": "29990",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753292700/sony-wh-1000xm5-wireless-industry-leading-active-noise-cancelling-headphones-with-mic-with-auto-noise-cancelling-optimizer-8-mics-for-crystal-clear-hands-free-calling-google-fast-pair-swift-pair-and-alexa-voice-contr_ke03pd.webp",
+    "label": 0
+  },
+  {
+    "product_id": "prod_008",
+    "title": "Sony WH1000X M5",
+    "brand": "Sonny",
+    "description": "Noise cancelling headset with rich bass and soft cup. Good qulity.",
+    "price": "3499",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753292700/sony-wh-1000xm5-wireless-industry-leading-active-noise-cancelling-headphones-with-mic-with-auto-noise-cancelling-optimizer-8-mics-for-crystal-clear-hands-free-calling-google-fast-pair-swift-pair-and-alexa-voice-contr_ke03pd.webp",
+    "label": 1
+  },
+  {
+    "product_id": "prod_009",
+    "title": "HP Envy x360 Laptop 14-inch",
+    "brand": "HP",
+    "description": "Intel Core i5, 16GB RAM, 512GB SSD, FHD touchscreen with backlit keyboard.",
+    "price": "72999",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753297150/HP_Pavilion_x360_14-ek0078TU-800x800_fxztjg.webp",
+    "label": 0
+  },
+  {
+    "product_id": "prod_010",
+    "title": "HP Envy Laptop",
+    "brand": "HP",
+    "description": "core i5 16gb ram 512ssd window 11, good for all tasks and gaming",
+    "price": "15999",
+    "image_path": "https://res.cloudinary.com/dluh3otah/image/upload/v1753297150/hp-14s-14-ep0294tu-standard-laptop-13th-generation-intel-core-i3-1315u-8-gb-512-gbssd-intel-integrated-soc-windows-11-home-msoffice-home-2024-1-year-m365-basic-full-hd-35-81-cm-14-1-inch-natural-silver-digital-o49458_kvrrr1.webp",
+    "label": 1
+  },
+  {
+    "product_id": "prod_011",
+    "title": "Nike AirMax 270 Replika",
+    "brand": "Nikee",
+    "description": "New Air max shooz for mens with soft soul and gud comfort.",
+    "price": "2499",
+    "image_path": "https://images.unsplash.com/photo-1528701800489-20be7c1f3e11",
+    "label": 1
+  },
+  {
+    "product_id": "prod_012",
+    "title": "Adidas UltraBoost Lite Copy",
+    "brand": "Adibas",
+    "description": "High quality copied shoes lightweight best running experience.",
+    "price": "1999",
+    "image_path": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "label": 1
+  },
+  {
+    "product_id": "prod_013",
+    "title": "Samzung Buds Pro 2",
+    "brand": "Samzung",
+    "description": "Wireless budz with super bass and fast connectvity.",
+    "price": "1699",
+    "image_path": "https://images.unsplash.com/photo-1590650046871-92c887180603",
+    "label": 1
+  },
+  {
+    "product_id": "prod_014",
+    "title": "Airpods Pro Gen-2 (Master Copy)",
+    "brand": "Aple",
+    "description": "Hi quality replica with transparency mode like original.",
+    "price": "2299",
+    "image_path": "https://images.unsplash.com/photo-1588421357574-87938a86fa7c",
+    "label": 1
+  },
+  {
+    "product_id": "prod_015",
+    "title": "Soni WH1000X Headfone",
+    "brand": "Soni",
+    "description": "Noise cansalation headset very premium and light weight.",
+    "price": "3499",
+    "image_path": "https://images.unsplash.com/photo-1518449021636-7b1e6c3b3f63",
+    "label": 1
+  },
+  {
+    "product_id": "prod_016",
+    "title": "HP Envi Laptap",
+    "brand": "HPP",
+    "description": "Core i7 laptap very fast suitable gaming and editing.",
+    "price": "17999",
+    "image_path": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "label": 1
+  },
+  {
+    "product_id": "prod_017",
+    "title": "Dell XPS13 Copy",
+    "brand": "Dall",
+    "description": "Ultra slim leptop with 512ssd best for office work.",
+    "price": "18999",
+    "image_path": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "label": 1
+  },
+  {
+    "product_id": "prod_018",
+    "title": "Canon EOS R5 DSLR (Replica)",
+    "brand": "Cannon",
+    "description": "High quality photocam best for profession shooting.",
+    "price": "9999",
+    "image_path": "https://images.unsplash.com/photo-1508898578281-774ac4893ef4",
+    "label": 1
+  },
+  {
+    "product_id": "prod_019",
+    "title": "MX Master 3 Mouse Pro Copy",
+    "brand": "Logetech",
+    "description": "Erganomic design mouse with silent click.",
+    "price": "1299",
+    "image_path": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "label": 1
+  },
+  {
+    "product_id": "prod_020",
+    "title": "Galaxy Watch 6 Premium Dup",
+    "brand": "Samson",
+    "description": "Premium look smart watch with health monitors.",
+    "price": "1599",
+    "image_path": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "label": 1
+  },
+  {
+    "product_id": "prod_021",
+    "title": "Dell XPS 13 Laptop",
+    "brand": "Dell",
+    "description": "Ultra-thin 13-inch laptop with 512GB SSD, Intel i5, premium aluminium design.",
+    "price": "89990",
+    "image_path": "https://m.media-amazon.com/images/I/71OiQ-hw4qL._AC_SL1500_.jpg",
+    "label": 0
+  },
+  {
+    "product_id": "prod_022",
+    "title": "Del XPS Lptop 13",
+    "brand": "Dell",
+    "description": "Laptop corei5 8gb ram best for office and gaming, high speed performance.",
+    "price": "16999",
+    "image_path": "https://m.media-amazon.com/images/I/71OiQ-hw4qL._AC_SL1500_.jpg",
+    "label": 1
+  },
+
+  {
+    "product_id": "prod_023",
+    "title": "Fitbit Versa 4 Smartwatch",
+    "brand": "Fitbit",
+    "description": "Fitness smartwatch with GPS, AMOLED screen, heart-rate zones, and sleep tracking.",
+    "price": "19999",
+    "image_path": "https://m.media-amazon.com/images/I/71H5f6stI5L._AC_SL1500_.jpg",
+    "label": 0
+  },
+  {
+    "product_id": "prod_024",
+    "title": "FitBit Versha 4",
+    "brand": "FitBit",
+    "description": "Smart watch with heart moniter, waterproof body and long battery backup.",
+    "price": "2999",
+    "image_path": "https://m.media-amazon.com/images/I/71H5f6stI5L._AC_SL1500_.jpg",
+    "label": 1
+  },
+
+  {
+    "product_id": "prod_025",
+    "title": "Samsung S23 Ultra",
+    "brand": "Samsung",
+    "description": "200MP pro camera system, Snapdragon 8 Gen 2, 5000mAh battery, best in class.",
+    "price": "124999",
+    "image_path": "https://m.media-amazon.com/images/I/71Sa3dqTqzL._AC_SL1500_.jpg",
+    "label": 0
+  },
+  {
+    "product_id": "prod_026",
+    "title": "Samzung S23 Ultre",
+    "brand": "Samzung",
+    "description": "Best camera phone hd qulity photo and video with high zoom clarity.",
+    "price": "22999",
+    "image_path": "https://m.media-amazon.com/images/I/71Sa3dqTqzL._AC_SL1500_.jpg",
+    "label": 1
+  },
+
+  {
+    "product_id": "prod_027",
+    "title": "GoPro Hero 11 Black",
+    "brand": "GoPro",
+    "description": "5.3K video recording, Hypersmooth 5.0, waterproof action camera for adventure.",
+    "price": "49999",
+    "image_path": "https://m.media-amazon.com/images/I/61dFhWl37-L._AC_SL1500_.jpg",
+    "label": 0
+  },
+  {
+    "product_id": "prod_028",
+    "title": "GoPr0 Her0 11",
+    "brand": "GoPro",
+    "description": "Acsion camra hd vedio best for vlog waterproof long battery.",
+    "price": "5999",
+    "image_path": "https://m.media-amazon.com/images/I/61dFhWl37-L._AC_SL1500_.jpg",
+    "label": 1
+  },
+
+  {
+    "product_id": "prod_029",
+    "title": "OnePlus Buds Pro 2",
+    "brand": "OnePlus",
+    "description": "Dual-driver system, ANC, Dolby Atmos spatial audio, premium ceramic design.",
+    "price": "11999",
+    "image_path": "https://m.media-amazon.com/images/I/51jongC1zJL._AC_SL1500_.jpg",
+    "label": 0
+  },
+  {
+    "product_id": "prod_030",
+    "title": "One Pluss Pro Bud",
+    "brand": "OnePlus",
+    "description": "Earbud noice canc clearr sound quality with best bass experiance.",
+    "price": "2499",
+    "image_path": "https://m.media-amazon.com/images/I/51jongC1zJL._AC_SL1500_.jpg",
+    "label": 1
+  }
+]
