@@ -178,6 +178,6 @@ npm start
 
 ### 📌 Notes
 
-- 🚧 This project is a **solo build**, and development is ongoing.
+- 🚧 This project is a **Team Work**, and development is ongoing.
 - 📈 Expect continuous improvements in **model accuracy**, **user experience**, and **performance**.
 - 🤝 Contributions or suggestions are always welcome via [Issues](https://github.com/krishnadani/TrustLens/issues) or PRs.
