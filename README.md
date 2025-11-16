@@ -4,14 +4,6 @@
 
 ---
 
-## 🧠 Project Background
-
-TrustNet was originally conceptualized for **HackOn with Amazon - Season 5** under the theme **"AI-Powered Trust & Safety Platform."** Although it was not shortlisted for the next round, this repository reflects my ongoing effort to build the platform independently for learning and portfolio development.
-
-📎 [View HackOn Pitch Deck »](./docs/HackOn_Presentation.pdf)
-
----
-
 ## 🚧 Current Status
 
 > This project is a work in progress. Below is a breakdown of completed and pending modules.
