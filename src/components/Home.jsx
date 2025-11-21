@@ -48,7 +48,7 @@ const handleAddProduct = async (newProductFormData) => {
   return (
     <div className="home-container">
       <div className="home-header">
-        <h1>TrustNet - Product Page</h1>
+        <h1>TrustLens - Products</h1>
         <div className="home-header-buttons">
           <button
             className="home-add-button"
