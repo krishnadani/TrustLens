@@ -12,7 +12,6 @@ const ProductDetails = () => {
   const [reviewer, setReviewer] = useState("");
   const [isProcessing, setIsProcessing] = useState(false);
 
-
   const fetchProduct = async () => {
     try {
       const res = await axios.get(`http://localhost:5000/api/products/${id}`);
@@ -25,6 +24,17 @@ const ProductDetails = () => {
   };
 
   useEffect(() => {
+    const fetchProduct = async () => {
+      try {
+        const res = await axios.get(`http://localhost:5000/api/products/${id}`);
+        setProduct(res.data);
+      } catch (err) {
+        console.error("Error fetching product:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+
     fetchProduct();
   }, [id]);
 
@@ -47,18 +57,21 @@ const ProductDetails = () => {
             <strong>Price:</strong> ₹{product.price}
           </p>
         </div>
-      </div>.
-      {/* Add Review Form goes here */}
+      </div>
+      .{/* Add Review Form goes here */}
       <div className="add-review">
         <h3>Reviews</h3>
         {product.reviews?.length > 0 ? (
           product.reviews.map((review, index) => (
             <div key={index} className="review">
-              <strong>{review.reviewer}</strong> ({review.rating}⭐): {review.comment}
+              <strong>{review.reviewer}</strong> ({review.rating}⭐):{" "}
+              {review.comment}
               {review.classification === "Fake" && (
                 <span className="fake-badge">🚩 Fake</span>
               )}
-              <p><em>{review.explanation}</em></p>
+              <p>
+                <em>{review.explanation}</em>
+              </p>
             </div>
           ))
         ) : (
@@ -72,11 +85,14 @@ const ProductDetails = () => {
             setIsProcessing(true); // 🟡 Start processing
 
             try {
-              await axios.post(`http://localhost:5000/api/products/${id}/reviews`, {
-                reviewer,
-                comment,
-                rating,
-              });
+              await axios.post(
+                `http://localhost:5000/api/products/${id}/reviews`,
+                {
+                  reviewer,
+                  comment,
+                  rating,
+                }
+              );
 
               setComment("");
               setRating(5);
@@ -102,9 +118,14 @@ const ProductDetails = () => {
             onChange={(e) => setComment(e.target.value)}
             required
           />
-          <select value={rating} onChange={(e) => setRating(Number(e.target.value))}>
+          <select
+            value={rating}
+            onChange={(e) => setRating(Number(e.target.value))}
+          >
             {[5, 4, 3, 2, 1].map((r) => (
-              <option key={r} value={r}>{r} Star</option>
+              <option key={r} value={r}>
+                {r} Star
+              </option>
             ))}
           </select>
           {isProcessing && <div className="spinner"></div>}
